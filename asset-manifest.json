@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/billing-calendar/static/css/main.0692d0de.css",
-    "main.js": "/billing-calendar/static/js/main.29eea2b4.js",
-    "static/js/453.2838eb2f.chunk.js": "/billing-calendar/static/js/453.2838eb2f.chunk.js",
-    "index.html": "/billing-calendar/index.html",
-    "main.0692d0de.css.map": "/billing-calendar/static/css/main.0692d0de.css.map",
-    "main.29eea2b4.js.map": "/billing-calendar/static/js/main.29eea2b4.js.map",
-    "453.2838eb2f.chunk.js.map": "/billing-calendar/static/js/453.2838eb2f.chunk.js.map"
+    "main.css": "/systmanalyst/billing-calendar.git/static/css/main.0692d0de.css",
+    "main.js": "/systmanalyst/billing-calendar.git/static/js/main.0239c05a.js",
+    "static/js/453.2838eb2f.chunk.js": "/systmanalyst/billing-calendar.git/static/js/453.2838eb2f.chunk.js",
+    "index.html": "/systmanalyst/billing-calendar.git/index.html",
+    "main.0692d0de.css.map": "/systmanalyst/billing-calendar.git/static/css/main.0692d0de.css.map",
+    "main.0239c05a.js.map": "/systmanalyst/billing-calendar.git/static/js/main.0239c05a.js.map",
+    "453.2838eb2f.chunk.js.map": "/systmanalyst/billing-calendar.git/static/js/453.2838eb2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0692d0de.css",
-    "static/js/main.29eea2b4.js"
+    "static/js/main.0239c05a.js"
   ]
 }
