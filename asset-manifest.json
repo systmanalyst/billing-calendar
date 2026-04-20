@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/billing-calendar/static/css/main.c4d81982.css",
-    "main.js": "/billing-calendar/static/js/main.60323fcc.js",
+    "main.js": "/billing-calendar/static/js/main.680028e5.js",
     "static/js/453.2838eb2f.chunk.js": "/billing-calendar/static/js/453.2838eb2f.chunk.js",
     "index.html": "/billing-calendar/index.html",
     "main.c4d81982.css.map": "/billing-calendar/static/css/main.c4d81982.css.map",
-    "main.60323fcc.js.map": "/billing-calendar/static/js/main.60323fcc.js.map",
+    "main.680028e5.js.map": "/billing-calendar/static/js/main.680028e5.js.map",
     "453.2838eb2f.chunk.js.map": "/billing-calendar/static/js/453.2838eb2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4d81982.css",
-    "static/js/main.60323fcc.js"
+    "static/js/main.680028e5.js"
   ]
 }
